@@ -17,7 +17,7 @@
       </span>
     {{- end }}
 
-    <span>{{ $paginator.PageNumber }} of {{ $pages }}</span>
+    <span>{{ $paginator.PageNumber }} de {{ $pages }}</span>
 
     {{- if $paginator.HasNext -}}
       <a href="{{ $root }}{{ $paginator.Next.URL }}" class="pager_item pager_next" rel="next">

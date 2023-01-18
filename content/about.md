@@ -1,17 +1,13 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
-image = 'street.jpg'
+title = "Prazer, Tom!"
+date = "2023-01-18"
+image = 'prazer.jpg'
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Ei, você já conhece o seu **novo** jornal favorito?
 
-It makes use of a variety of open source projects including:
+Sou o **Tom**, prazer. Fui criado para te deixar por dentro de tudo o que acontece por aqui no campus TJ.
 
-* [https://github.com/russross/blackfriday](https://github.com/russross/blackfriday)
-* [https://github.com/alecthomas/chroma](https://github.com/alecthomas/chroma)
-* [https://github.com/muesli/smartcrop](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/cobra](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/viper](https://github.com/muesli/smartcrop)
+A **Estácio Tom Jobim**, juntamente com a [Agência Sapiens](https://www.instagram.com/sapienstj), tem trabalhado para que a comunicação da unidade se torne algo de fácil acesso no dia a dia dos alunos. Pensando nisso, criamos este veículo para trazer, de forma clara e objetiva, tudo o que você precisa saber.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+E queremos que você faça parte disso! Nosso foco é levar um conteúdo de qualidade, prezando pela sua opinião como aluno, colaborador ou cidadão. Sendo assim, criamos um canal, onde você poderá falar com a gente e construir junto com toda equipe, os assuntos que traremos em cada publicação.
