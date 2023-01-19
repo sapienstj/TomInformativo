@@ -23,10 +23,6 @@ html[data-mode="dim"] {
   --theme: rgb(48,209,88);
 }
 
-html[data-mode="dim"] * {
-  box-shadow: none !important;
-}
-
 html[data-mode="dim"] main p {
   opacity: 0.9;
 }
@@ -43,9 +39,6 @@ html[data-mode="dim"] .color_choice::after {
     --text: var(--light);
     --accent: var(--bubble);
     --theme: rgb(48,209,88);
-  }
-  html:not([data-mode="lit"]) * {
-    box-shadow: none !important;
   }
   html:not([data-mode="lit"]) main p {
     opacity: 0.9;
@@ -1369,10 +1362,6 @@ html[data-mode="dim"] {
   --theme: rgb(81, 152, 255);
 }
 
-html[data-mode="dim"] * {
-  box-shadow: none !important;
-}
-
 html[data-mode="dim"] main p {
   opacity: 0.9;
 }
@@ -1389,9 +1378,6 @@ html[data-mode="dim"] .color_choice::after {
     --text: var(--light);
     --accent: var(--bubble);
     --theme: rgb(81, 152, 255);
-  }
-  html:not([data-mode="lit"]) * {
-    box-shadow: none !important;
   }
   html:not([data-mode="lit"]) main p {
     opacity: 0.9;

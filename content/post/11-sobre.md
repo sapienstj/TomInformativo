@@ -1,8 +1,8 @@
 ---
 title : "Prazer, Tom!"
-date : "2023-01-18"
 image : 'prazer.jpg'
 author : 'Equipe Tom'
+weight : 1
 ---
 
 Ei, você já conhece o seu **novo** jornal favorito?

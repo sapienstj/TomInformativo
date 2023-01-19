@@ -21,6 +21,11 @@ paginate = 5
     noClasses = false
     tabWidth = 2
 
+
+[permalinks]
+  post = '/:2006/:01/:title/'
+    
+
 # If you want to use disqus, uncomment the line below
 # disqusShortname = "yourdiscussshortname"
 
@@ -29,7 +34,7 @@ paginate = 5
   dateFormat = "02 Jan 2006"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
+  twitter = "@sapienstj" # twitter handle e.g @weru
   # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
   # uncomment the line below will disable darkmode by default.
   # uncomment and set value below to either "light" or "dark" to make default mode dark.

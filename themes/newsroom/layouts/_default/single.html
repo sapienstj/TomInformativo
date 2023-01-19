@@ -3,9 +3,13 @@
   <div class="wrap mt post">
     <div>
       {{- $date := (dateFormat "2 de January de 2006" .Date) -}}
+      {{ if isset .Params "date" }}
       <p class="post_date">{{ $date }}</p>
+      {{ end }}
       <h1 class="post_title">{{ .Title }}</h1>
+      {{ if isset .Params "author" }}
       <h5 class="post_title">Por {{ .Params.Author }}</h5>
+	      {{ end }}
       <div class="post_body">
         <div class="post_inner">
         {{ with .Params.image }}
