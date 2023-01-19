@@ -1,8 +1,9 @@
-+++
-title = "Prazer, Tom!"
-date = "2023-01-18"
-image = 'prazer.jpg'
-+++
+---
+title : "Prazer, Tom!"
+date : "2023-01-18"
+image : 'prazer.jpg'
+author : 'Equipe Tom'
+---
 
 Ei, você já conhece o seu **novo** jornal favorito?
 

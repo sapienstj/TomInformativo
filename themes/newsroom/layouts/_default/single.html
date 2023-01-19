@@ -1,9 +1,11 @@
 {{ define "main" }}
+<br>
   <div class="wrap mt post">
     <div>
       {{- $date := (dateFormat "2 de January de 2006" .Date) -}}
       <p class="post_date">{{ $date }}</p>
       <h1 class="post_title">{{ .Title }}</h1>
+      <h5 class="post_title">Por {{ .Params.Author }}</h5>
       <div class="post_body">
         <div class="post_inner">
         {{ with .Params.image }}

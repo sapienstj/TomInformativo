@@ -1,7 +1,8 @@
 ---
 date: 2022-11-02
 title: Qual é o time? Guardiões!
-image: 'Volei.jpg'
+image: 'volei.jpg'
+author : 'Carolina Requena'
 ---
 
 Conheça a Atlética que une todos os cursos do TJ

@@ -2,6 +2,7 @@
 date: 2022-11-02
 title: Prêmio Pitching 2022.2
 image: 'premio.jpg'
+author : 'Yohana Guimarães'
 ---
 
 O Prêmio Pitching é um incentivo da Universidade Estácio à projetos de audiovisual que ocorre no Dia do Cinema. No evento, organizado semestralmente pelo NUCINE, vários alunos apresentam seus projetos para uma banca de avaliadores do mercado audiovisual e o vencedor recebe todo o suporte acadêmico para realização e filmagem no Campus.

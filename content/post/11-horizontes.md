@@ -2,6 +2,7 @@
 date: 2022-11-02
 title: Ampliando Horizontes
 image: 'horizontes.jpg'
+author : 'Yohana Guimarães'
 ---
 
 No dia 29 de outubro, a Estácio Tom Jobim recebeu diversos alunos de escolas públicas e privadas do Rio de Janeiro. O objetivo do evento foi aproximar os estudantes de suas futuras profissões e ajudar na escolha de qual carreira seguir.
