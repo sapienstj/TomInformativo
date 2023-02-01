@@ -1,7 +1,7 @@
 ---
 date: 2022-11-02
 title: Prêmio Pitching 2022.2
-image: 'premio.jpg'
+image: 'premio.webp'
 author : 'Yohana Guimarães'
 ---
 

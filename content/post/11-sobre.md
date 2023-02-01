@@ -1,6 +1,6 @@
 ---
 title : "Prazer, Tom!"
-image : 'prazer.jpg'
+image : 'prazer.webp'
 author : 'Equipe Tom'
 weight : 1
 ---

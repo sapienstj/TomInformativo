@@ -1,7 +1,7 @@
 +++
 title = "Prazer, Tom!"
 date = "2023-01-18"
-image = 'prazer.jpg'
+image = 'prazer.webp'
 +++
 
 Ei, você já conhece o seu **novo** jornal favorito?

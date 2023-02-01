@@ -1,7 +1,7 @@
 ---
 date: 2022-11-02
 title: Ampliando Horizontes
-image: 'horizontes.jpg'
+image: 'horizontes.webp'
 author : 'Yohana Guimarães'
 ---
 

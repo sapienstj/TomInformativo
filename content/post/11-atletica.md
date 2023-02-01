@@ -1,7 +1,7 @@
 ---
 date: 2022-11-02
 title: Qual é o time? Guardiões!
-image: 'volei.jpg'
+image: 'volei.webp'
 author : 'Carolina Requena'
 ---
 

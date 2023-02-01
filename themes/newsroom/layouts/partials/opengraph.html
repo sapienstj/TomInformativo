@@ -31,7 +31,7 @@
 {{ if isset .Params "image" }}
 <meta property="og:image" content="{{ $image }}">
 {{ else }}
-<meta property="og:image" content="https://tominformativo.netlify.app/images/prazer.jpg">
+<meta property="og:image" content="https://tominformativo.netlify.app/images/prazer.webp">
 {{ end }}
 {{- if eq .Section $config.blogDir -}}
   {{- $date := .Date.Format "2006-02-01" -}}
