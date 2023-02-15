@@ -1,4 +1,4 @@
-baseurl = "https://tominformativo.netlify.app/"  # Include trailing slash
+baseurl =  # Include trailing slash
 title = "Tom Informativo"
 theme = "newsroom"
 author = "Sapiens TJ"
