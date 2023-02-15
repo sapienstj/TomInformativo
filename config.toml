@@ -1,4 +1,4 @@
-baseurl =  # Include trailing slash
+baseurl = "tominformativo.sapiens.com.br" # Include trailing slash
 title = "Tom Informativo"
 theme = "newsroom"
 author = "Sapiens TJ"
