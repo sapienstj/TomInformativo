@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02T03:04:19.590Z
 title: "O Rio quer falar, é só ouvir"
-image: 'março/publicidade.webp'
+image: 'março/podcast.webp'
 author: Carolina Requena
 ---
 PubliCidade: conheça o Podcast carioca que une Comunicação, História e Cultura
