@@ -1,8 +1,8 @@
 ---
+date: 2022-11-01
 title : "Prazer, Tom!"
 image : 'prazer.webp'
 author : 'Equipe Tom'
-weight : 1
 ---
 
 Ei, você já conhece o seu **novo** jornal favorito?
