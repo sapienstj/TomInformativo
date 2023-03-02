@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02T03:04:21.590Z
 title: "Ano novo, campus renovado"
-image: 'março/reforma.webp'
+image: 'março/reformas.webp'
 author: Nathaly Scofield
 ---
 

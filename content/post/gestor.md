@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02T03:04:22.590Z
-title: "Já são 5 anos na galáxia"
-image: 'março/groot.webp'
+title: "Conheça Márcio Simão, o novo gestor do Campus Tom Jobim"
+image: 'março/gestor.webp'
 author: Carolina Requena
 ---
 “Os alunos precisam saber do que são capazes na universidade”
