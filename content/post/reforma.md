@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02T03:04:21.590Z
 title: "Ano novo, campus renovado"
-image: 'reforma.webp'
+image: 'março/reforma.webp'
 author: Nathaly Scofield
 ---
 Para melhor receber os alunos nesse novo semestre que se inicia, o Campus Tom Jobim está passando por uma  série de reformas, podendo,  assim,  oferecer um maior conforto para os estudantes. 

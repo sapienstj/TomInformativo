@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02T03:04:19.590Z
 title: "O Rio quer falar, é só ouvir"
-image: 'publicidade.webp'
+image: 'março/publicidade.webp'
 author: Carolina Requena
 ---
 O que o Cristo Redentor tem pra dizer? O que o Pão de Açúcar quer nos contar? Por que a Lapa fica mudando de cor? A resposta para essa e outras perguntas você encontra no mais novo projeto da Sapiens TJ, que mergulha em uma visão diferenciada dos principais símbolos da cultura carioca.

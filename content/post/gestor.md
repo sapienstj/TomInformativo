@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02T03:04:22.590Z
 title: "Já são 5 anos na galáxia"
-image: 'groot.webp'
+image: 'março/groot.webp'
 author: Carolina Requena
 ---
 Um novo semestre se inicia na Estácio TJ e, com ele, as novidades acadêmicas e estruturais batem à porta. Em 2023, o Tom Jobim renova sua administração e recebe um novo gestor, que pretende proporcionar aos alunos a melhor experiência possível no dia a dia universitário. Márcio Simão tem 54 anos, é formado em Administração, pós-graduado em Economia e, atualmente, cursa um MBA em Gestão Estratégica de Pessoas.

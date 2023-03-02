@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02T03:04:20.590Z
 title: "Seletivas"
-image: 'seletivas.webp'
+image: 'março/seletivas.webp'
 author: Nathaly Scofield
 ---
 Aposto que, como todo estudante, você já desejou ter algum lugar para aplicar seu conhecimento, ou, então, aprender algo, enquanto se diverte. A Estácio Tom Jobim tem a solução: locais onde o aluno aprende, enquanto faz na prática, aumentando seu portfólio e fazendo o famoso networking.
