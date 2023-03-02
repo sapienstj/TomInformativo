@@ -4,7 +4,7 @@ theme = "newsroom"
 author = "Sapiens TJ"
 canonifyurls = true
 defaultContentLanguage = "pt"
-paginate = 5
+paginate = 7
 
 [markup]
   [markup.goldmark.renderer]
