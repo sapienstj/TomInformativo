@@ -1,9 +1,11 @@
 ---
 date: 2023-03-02T03:04:18.590Z
-title: "Clara Zetkin: A mulher que propôs o Dia Internacional das Mulheres"
+title: "Clara Zetkin"
 image: 'março/zetkin.webp'
 author: Nathaly Scofield
 ---
+A mulher que propôs o Dia Internacional das Mulheres
+
 O ano era 1910 e, dentro de uma Conferência Internacional de Mulheres Socialistas, em Copenhagen, uma mulher daria uma ideia que mudaria para sempre o dia 8 de março.
 
 Clara Zetkin nasceu no dia 5 de julho de 1857, em Wiederau, na Alemanha. Quando nova, ingressou em uma escola de formação para professores, através da ajuda de um conhecido de sua mãe. Foi lá onde conseguiu se educar mais sobre Direito e onde teve o seu primeiro contato com os movimentos operários alemães.

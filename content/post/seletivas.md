@@ -4,6 +4,8 @@ title: "Seletivas"
 image: 'março/seletivas.webp'
 author: Nathaly Scofield
 ---
+Venha fazer parte dos escritórios modelo do TJ!
+
 Aposto que, como todo estudante, você já desejou ter algum lugar para aplicar seu conhecimento, ou, então, aprender algo, enquanto se diverte. A Estácio Tom Jobim tem a solução: locais onde o aluno aprende, enquanto faz na prática, aumentando seu portfólio e fazendo o famoso networking.
 
 ## Sapiens
