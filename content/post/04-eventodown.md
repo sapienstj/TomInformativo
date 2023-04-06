@@ -1,6 +1,6 @@
 ---
 date: 2023-04-03
-title : "PROJETO REUNIR COLOCA ALUNOS COM SÍNDROM DE DOWN NO PROTAGONISMO"
+title : "PROJETO REUNIR COLOCA ALUNOS COM SÍNDROME DE DOWN NO PROTAGONISMO"
 image : '/abril/eventodown.webp'
 author : 'Carolina Requena'
 ---
