@@ -1,7 +1,12 @@
 ---
 date: 2023-04-03
-title : "LABORATÓRIOS DE CARA NOVA"
-image : '/abril/atleticup.webp'
-author : 'Carolina Requena'
+title: TUDO EM JOGO PARA A GUARDIÕES
+image: /abril/atleticup.webp
+author: Carolina Requena
 ---
-No último mês, a Sapiens TJ, Agência Experimental de Publicidade do campus, criou novas identidades visuais para o Laboratório de Produção Teatral e para o Escritório Modelo de Arquitetura e Urbanismo (EMAU). Matheus Oliveira, diretor de Arte da Agência, trabalhou em parceria com os representantes dos laboratórios, entendendo as propostas solicitadas, para produzir branding books detalhados e personalizados. Confira o trabalho da Sapiens nas redes sociais do @labproducaoteatral e do @emau_estaciotj!
+No mês de abril, as equipes da atlética unificada Guardiões da Estácio marcarão presença em diversos jogos e competições importantes.
+
+\
+No futsal, o time lidera a disputa em duas competições: a Taça Universitária Carioca (TUC) e a AthletiCup. Na TUC, a equipe depende de um empate para garantir o primeiro lugar na série C. Já na Série A da AthletiCup, nosso time de futsal masculino jogou com a UFRJ EEFD no Ginásio da Unisuam, em Bonsucesso.
+
+No vôlei masculino, os atletas enfrentarão a UERJ Finanças, no dia 16/04, na Arena TUC, em busca do título na série A do campeonato. No vôlei feminino, a vitória de 2 à 1 contra a equipe da Estácio Med Cittá marcou o último domingo de março.
