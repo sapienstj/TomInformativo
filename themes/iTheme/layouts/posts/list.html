@@ -7,24 +7,10 @@
 
         <!-- add day manually to parse as date-->
         {{ $month := printf "%s%s" .Key "-01"}}
-        {{ $monthTranslations := dict
-            "January"   "Janeiro"
-            "February"  "Fevereiro"
-            "March"     "Março"
-            "April"     "Abril"
-            "May"       "Maio"
-            "June"      "Junho"
-            "July"      "Julho"
-            "August"    "Agosto"
-            "September" "Setembro"
-            "October"   "Outubro"
-            "November"  "Novembro"
-            "December"  "Dezembro"
-        }}
+        {{ $month := .context.Date.Format "January" }}
+        {{ $monthTranslations := map "January" "Janeiro" "February" "Fevereiro" "March" "Março" "April" "Abril" "May" "Maio" "June" "Junho" "July" "Julho" "August" "Agosto" "September" "Setembro" "October" "Outubro" "November" "Novembro" "December" "Dezembro" }}
         
-        {{ $month := $monthTranslations (.context.Date.Format "January") }}
-        
-        <h2 class="result__title">Edição de {{ $month }} de {{ .context.Date.Year }}</h2>
+        <h2 class="result__title">Edição de {{ index $monthTranslations $month }} de {{ .context.Date.Year }}</h2>
                     {{ range .Pages }}
 
             {{ partial "archiveItem.html" (dict "context" .) }}
