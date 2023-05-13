@@ -19,25 +19,6 @@
         <h3 class="item__headline">
             {{ .context.Title }}
         </h3>
-        {{ $monthMap := dict
-            "January"   "Janeiro"
-            "February"  "Fevereiro"
-            "March"     "Março"
-            "April"     "Abril"
-            "May"       "Maio"
-            "June"      "Junho"
-            "July"      "Julho"
-            "August"    "Agosto"
-            "September" "Setembro"
-            "October"   "Outubro"
-            "November"  "Novembro"
-            "December"  "Dezembro"
-        }}
-        
-        <p class="item__date">
-            {{ $month := index $monthMap (.context.Date.Format "January") }}
-            {{ .context.Date.Format "2" }} de {{ $month }} de {{ .context.Date.Format "2006" }}
-        </p>
-        
+        <p class="item__date">{{ .context.Date.Format "2 de January de 2006" }}</p>
     </div>
 </a>
