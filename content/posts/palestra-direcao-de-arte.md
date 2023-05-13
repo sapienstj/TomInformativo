@@ -1,13 +1,16 @@
 ---
 date: 2023-05-10
 title: '"Pensar e criar são coisas diferentes", diz Jhonny Muller, da Firma Criadores, em palestra sobre direção de arte publicitária'
-cover : 
+cover: 
 author: Carolina Requena
-highlight: false
-tags: ["Curso"]
+tags: ["Sapiens"]
 theme: "light"
-featured: true
+featured: false
+description: 
+highlight: false
 ---
-No dia 8 de maio, o auditório da Estácio TJ recebeu o designer gráfico e co-fundador da agência publicitária Firma Criadores Jhonny Muller, para uma palestra sobre "O papel do diretor de arte na Era Digital" e reuniu alunos de diversos cursos. A aula trabalhou, de forma interativa, a criatividade dos estudantes, com exercícios práticos de "insight" e criação, além de abordagens teóricas sobre a direção de arte na Publicidade. 
+No dia 17 de Abril, o curso de Publicidade e Propaganda da Estácio Tom Jobim recebeu, para a tradicional Aula Inaugural, o publicitário Tobias Marcon, pós-graduado em Design Gráfico e fundador da agência NOVA Studio. Marcon ministrou uma extensa e aprofundada palestra no auditório do campus, que trouxe o tema “A História da Arte aplicada à Tipografia”. A aula traçou uma grande linha do tempo histórica, passando por todos as movimentos artísticas e detalhando a evolução das fontes na tipografia mundial.
 
-A publicitária Beatriz Galvão, professora do Campus Barra, acredita que os futuros publicitários precisam, o quanto antes, compreender a função da direção de arte nas mídias digitais. "Isso permite que o aluno desenvolva uma visão crítica e estratégica, capaz de criar soluções criativas e eficientes para as demandas do mercado atual.", explica a professora.
+Beatriz Galvão, mestre em Criação e Produção de conteúdos digitais pela Escola de Comunicação da UFRJ (ECO), é professora do curso de Publicidade no Tom Jobim e explica a importância da tipografia para os futuros publicitários. “A tipografia é uma das bases fundamentais da Publicidade, já que é responsável pela criação de identidades visuais que representam e comunicam a mensagem de uma marca ou produto.”, analisa a professora.
+
+Além disso, Galvão também acredita na construção de uma “Publicidade melhor”, com o entendimento da história tipográfica. “Ao entender a história da tipografia, é possível criar campanhas mais criativas e adequadas ao público-alvo, além de contribuir para a construção de uma Publicidade mais ética e responsável.”, acrescenta a publicitária.

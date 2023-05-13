@@ -30,7 +30,7 @@ cover: "/images/markdown.webp"
 
 ![Imagem Grande|big](/images/carnaval.webp)
 
-![Image Pequena|inline](/images/markdown.webp)
+![Image Pequena|big](/images/markdown.webp)
 
 # Citações
 

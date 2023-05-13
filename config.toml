@@ -1,23 +1,56 @@
+<<<<<<< Updated upstream
+baseurl = "/" # Include trailing slash
+title = "Tom Informativo"
+theme = "newsroom"
+author = "Sapiens TJ"
+canonifyurls = true
+defaultContentLanguage = "pt"
+paginate = 9
+
+[markup]
+  [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = true # change to true to enable inclusion of rawHTML and math functions
+    xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    tabWidth = 2
+
+
+[permalinks]
+  post = '/:2006/:01/:filename/'
+    
+
+# If you want to use disqus, uncomment the line below
+# disqusShortname = "yourdiscussshortname"
+
+=======
 baseURL = '/'
-languageCode = 'pt-br'
 defaultContentLanguage = "pt-br"
+languageCode = "pt-br"
 hasCJKLanguage = true
 title = 'Tom Informativo'
 copyright = 'sapiensTJ'
 theme = 'iTheme'
 paginate = 10
+>>>>>>> Stashed changes
 [params]
-  defaultCover = '/images/prazer.webp'
-  email = 'atendimento@sapienstj.com.br'
-  [[params.socialMedia]]
-    name = 'Github'
-    url = 'https://github.com/sapienstj'
-  [[params.socialMedia]]
-    name = 'Instagram'
-    url = 'https://instagram.com/sapienstj'
-  [[params.blogroll]]
-    name = 'Portfólio'
-    url = 'https://sapienstj.com.br/portfolio'
-  [[params.blogroll]]
-    name = 'Blog'
-    url = 'https://blog.sapienstj.com.br/'
+  languageCode = "pt"
+  dateFormat = "02 Jan 2006"
+  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
+  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+  twitter = "@sapienstj" # twitter handle e.g @weru
+  # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
+  # uncomment the line below will disable darkmode by default.
+  # uncomment and set value below to either "light" or "dark" to make default mode dark.
+  # defaultMode = "" # Note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
+logo = "/images/logo.svg" # if the value is an empty string, the site title will be shown instead
+
+faviconsDir = "images/icons/" # with a trailing slash
+blogDir = "post" # edit

@@ -11,10 +11,7 @@ collections:
     folder: "content/post"
     create: true
     fields:
-      - { label: "Data", name: "date", widget: "date" }
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Imagem", name: "cover", widget: "image" }
-      - { label: "Autor", name: "author", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Destaque", name: "highlight", widget: "boolean" }
-      - { label: "Conteúdo", name: "body", widget: "markdown" }
+      - {label: "Data", name: "date", widget: "date"}    
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Imagem", name: "image", widget: "image"}         
+      - {label: "Conteúdo", name: "body", widget: "markdown"}

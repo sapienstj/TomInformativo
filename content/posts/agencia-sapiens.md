@@ -1,8 +1,8 @@
 ---
 date: 2023-05-12
-title: Agência Sapiens do Campus Barra recebe reforma interna que realça identidade visual
+title: "Agência Sapiens do Campus Barra recebe reforma interna que realça identidade visual"
 description: 
-cover : 
+cover: 
 author: Carolina Requena
 tags: ["Sapiens"]
 theme: "light"

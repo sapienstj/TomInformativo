@@ -1,10 +1,14 @@
----
-title: 'Prazer, Tom'
-plain: true
-theme: 'light'
----
++++
+title = "Prazer, Tom!"
+date = "2023-01-18"
+image = 'prazer.webp'
++++
+
 Ei, você já conhece o seu **novo** jornal favorito?
-![O seu jornal oficial do campus Barra Tom Jobim|inline](/images/prazer.webp)
+<<<<<<< Updated upstream
+=======
+![O seu jornal oficial do campus Barra Tom Jobim|big](/images/prazer.webp)
+>>>>>>> Stashed changes
 
 Sou o **Tom**, prazer. Fui criado para te deixar por dentro de tudo o que acontece por aqui no campus TJ.
 
