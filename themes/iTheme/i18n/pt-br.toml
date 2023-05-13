@@ -30,17 +30,3 @@
     other = "Fale conosco em"
 [licenses]
     other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
-
-[months]
-    January = "Janeiro"
-    February = "Fevereiro"
-    March = "Março"
-    April = "Abril"
-    May = "Maio"
-    June = "Junho"
-    July = "Julho"
-    August = "Agosto"
-    September = "Setembro"
-    October = "Outubro"
-    November = "Novembro"
-    December = "Dezembro"

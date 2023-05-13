@@ -2,7 +2,7 @@
 date: 2023-05-10
 title: '"Entender a tipografia contribui para uma Publicidade mais ética.", diz publicitária e professora da Estácio sobre aula inaugural de Publicidade'
 description: 
-cover:
+cover : 
 author: Carolina Requena
 tags: ["Curso"]
 theme: "light"

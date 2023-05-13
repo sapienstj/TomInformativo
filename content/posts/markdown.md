@@ -3,7 +3,7 @@ title: "Opções de texto"
 date: '2023-03-19T13:06:38+08:00'
 description: "Exibe todas as opções de texto"
 author: "Matheus Oliveira"
-tags: ["Exemplo"]
+tags: []
 theme: "light"
 featured: true
 cover: "/images/markdown.webp"
@@ -30,7 +30,7 @@ cover: "/images/markdown.webp"
 
 ![Imagem Grande|big](/images/carnaval.webp)
 
-![Image Pequena|big](/images/markdown.webp)
+![Image Pequena|inline](/images/markdown.webp)
 
 # Citações
 

@@ -1,13 +1,11 @@
 ---
 date: 2023-05-10
-title: "Cerimônia do Jaleco, tradição de Medicina, inova e contempla outros cursos da área da Saúde"
-cover: 
+title: Cerimônia do Jaleco, tradição de Medicina, inova e contempla outros cursos da área da Saúde
+cover : 
 author: Carolina Requena
 tags: ["Saúde"]
 theme: "light"
 featured: true
-description: 
-highlight: false
 ---
 No dia 6 de abril, os alunos dos cursos da área de Saúde do Campus Tom Jobim participaram, pela primeira vez, da tradicional Cerimônia do Jaleco, que aconteceu no auditório e reuniu familiares, docentes e diversos estudantes. A tradição tem como objetivo iniciar as graduações do curso de Medicina, contando com a prática de entregar jalecos aos calouros do curso, normalmente realizada por um "padrinho", escolhido pelo aluno. 
 

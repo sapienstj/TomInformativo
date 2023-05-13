@@ -1,10 +1,16 @@
 ---
-title: 'Prazer, Tom'
-plain: true
-theme: 'light'
+date: 2022-11-01
+title: "Prazer, Tom!"
+cover: '/images/prazer.webp'
+author: 'Equipe Tom'
+theme: "light"
+featured: true
+description: 
+tags: []
+highlight: false
 ---
+![|big](/images/prazer.webp)
 Ei, você já conhece o seu **novo** jornal favorito?
-![O seu jornal oficial do campus Barra Tom Jobim|inline](/images/prazer.webp)
 
 Sou o **Tom**, prazer. Fui criado para te deixar por dentro de tudo o que acontece por aqui no campus TJ.
 
