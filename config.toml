@@ -3,7 +3,7 @@ languageCode = 'pt-br'
 defaultContentLanguage = "pt-br"
 hasCJKLanguage = true
 title = 'Tom Informativo'
-copyright = 'Sapiens'
+copyright = 'sapiensTJ'
 theme = 'iTheme'
 paginate = 10
 [params]
