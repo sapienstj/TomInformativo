@@ -29,7 +29,25 @@
         </div>
         <div class="tile__headline">{{ .context.Title }}</div>
       </div>
-      <div class="tile__timestamp icon-hide icon icon-before icon-clock">{{ .context.Date.Format "January de 2006" }}</div>
+      {{ $monthMap := dict
+        "January"   "Janeiro"
+        "February"  "Fevereiro"
+        "March"     "Março"
+        "April"     "Abril"
+        "May"       "Maio"
+        "June"      "Junho"
+        "July"      "Julho"
+        "August"    "Agosto"
+        "September" "Setembro"
+        "October"   "Outubro"
+        "November"  "Novembro"
+        "December"  "Dezembro"
+    }}
+    
+    <div class="tile__timestamp icon-hide icon icon-before icon-clock">
+        {{ $month := index $monthMap (.context.Date.Format "January") }}
+        {{ $month }} de {{ .context.Date.Format "2006" }}
+    </div>
     </div>
   </a>
 </li>
