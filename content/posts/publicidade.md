@@ -10,7 +10,6 @@ tags: []
 ---
 ![|big](/images/março/podcast.webp)
 
-
 PubliCidade: conheça o Podcast carioca que une Comunicação, História e Cultura
 
 O que o Cristo Redentor tem pra dizer? O que o Pão de Açúcar quer nos contar? Por que a Lapa fica mudando de cor? A resposta para essa e outras perguntas você encontra no mais novo projeto da Sapiens TJ, que mergulha em uma visão diferenciada dos principais símbolos da cultura carioca.

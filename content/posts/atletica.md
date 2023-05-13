@@ -9,6 +9,7 @@ description:
 tags: []
 highlight: false
 ---
+![|big](/images/março/groot.webp)
 O ano de 2023 já se inicia de forma especial para a Guardiões da Estácio, atlética unificada da Estácio Tom Jobim, visto que a associação completa cinco anos de existência e promete muitas novidades surpreendentes para o novo semestre.
 
 A Guardiões pretende receber os calouros com o famoso GrootDay, um grande evento de apresentação, anúncios e recepção, que vão acontecer no Campus, dia 6 de março.

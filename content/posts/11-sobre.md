@@ -10,6 +10,7 @@ tags: []
 highlight: false
 ---
 ![|big](/images/prazer.webp)
+
 Ei, você já conhece o seu **novo** jornal favorito?
 
 Sou o **Tom**, prazer. Fui criado para te deixar por dentro de tudo o que acontece por aqui no campus TJ.
