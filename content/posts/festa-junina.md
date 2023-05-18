@@ -1,13 +1,14 @@
 ---
-date: 2023-05-11
-title: "Olha o Arraiá do TJ! Não é mentira! :)"
-cover: 
+theme: light
 author: Carolina Requena
-highlight: false
-tags: ["Campus"]
-theme: "light"
 featured: true
-description: 
+date: 2023-05-11
+title: Olha o Arraiá do TJ! Não é mentira! :)
+cover: /images/arraiá.webp
+tags:
+  - Campus
+highlight: false
+description: null
 ---
 A fogueira vai queimar no Tom Jobim! No dia 31 de maio, quarta-feira, a gestão da Estácio Barra vai realizar uma grande festa junina, com diversos foodtrucks de gastronomia típica, muita música e, claro, a clássica quadrilha.
 
