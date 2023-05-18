@@ -1,13 +1,15 @@
 ---
-date: 2023-05-10
-title: '"Entender a tipografia contribui para uma Publicidade mais ética.", diz publicitária e professora da Estácio sobre aula inaugural de Publicidade'
-description: 
-cover : 
+theme: light
 author: Carolina Requena
-tags: ["Curso"]
-theme: "light"
 featured: true
+date: 2023-05-10
+title: '"Entender a tipografia contribui para uma Publicidade mais ética.", diz
+  publicitária e professora da Estácio sobre aula inaugural de Publicidade'
+cover: /images/aulainaugural.webp
+tags:
+  - Curso
 highlight: false
+description: null
 ---
 No dia 17 de Abril, o curso de Publicidade e Propaganda da Estácio Tom Jobim recebeu, para a tradicional Aula Inaugural, o publicitário Tobias Marcon, pós-graduado em Design Gráfico e fundador da agência NOVA Studio. Marcon ministrou uma extensa e aprofundada palestra no auditório do campus, que trouxe o tema "A História da Arte aplicada à Tipografia". A aula traçou uma grande linha do tempo histórica, passando por todos as movimentos artísticas e detalhando a evolução das fontes na tipografia mundial.
 
