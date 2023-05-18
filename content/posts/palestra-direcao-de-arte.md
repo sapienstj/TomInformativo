@@ -1,13 +1,15 @@
 ---
-date: 2023-05-10
-title: '"Pensar e criar são coisas diferentes", diz Jhonny Muller, da Firma Criadores, em palestra sobre direção de arte publicitária'
-cover: 
+theme: light
 author: Carolina Requena
-tags: ["Sapiens"]
-theme: "light"
 featured: true
-description: 
+date: 2023-05-10
+title: '"Pensar e criar são coisas diferentes", diz Jhonny Muller, da Firma
+  Criadores, em palestra sobre direção de arte publicitária'
+cover: /images/aulada.webp
+tags:
+  - Curso
 highlight: false
+description: null
 ---
 No dia 8 de maio, o auditório da Estácio TJ recebeu o designer gráfico e co-fundador da agência publicitária Firma Criadores Jhonny Muller, para uma palestra sobre "O papel do diretor de arte na Era Digital" e reuniu alunos de diversos cursos. A aula trabalhou, de forma interativa, a criatividade dos estudantes, com exercícios práticos de "insight" e criação, além de abordagens teóricas sobre a direção de arte na Publicidade. 
 
