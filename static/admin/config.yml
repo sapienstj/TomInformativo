@@ -8,7 +8,7 @@ locale: 'pt'
 collections:
   - label: "Posts"
     name: "post"
-    folder: "content/post"
+    folder: "content/posts"
     create: true
     fields:
       - { label: "Data", name: "date", widget: "date" }
