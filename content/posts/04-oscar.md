@@ -9,7 +9,7 @@ description:
 tags: ["Cinema", "Oscar"]
 highlight: false
 ---
-![|big](/images/abril/oscar.webp)
+![Reprodução: Divulgação/DM9 e Getty Images|big](/images/abril/oscar.webp)
 
 No dia 12 de março, às 21h, a premiação mais tradicional do Cinema, o Oscar, aconteceu em Los Angeles, na Califórnia, em sua 95ª cerimônia. Entretanto, esse ano, a campanha The Cost of Gold ("O Custo do Ouro") fez história ao problematizar as clássicas estatuetas que são entregues aos vencedores. A causa tem como objetivo divulgar os danos da mineração ilegal do ouro para as florestas e, principalmente, para o povo Yanomami, que é diretamente afetado pela prática. 
 
