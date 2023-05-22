@@ -1081,7 +1081,7 @@ html.js .tile.large-loaded .image {
   font-weight: 700;
   letter-spacing: -.005em;
   font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  text-align: center
+  text-align:left
 }
 
 .featured-header .pagetitle .hero-headline:lang(ar) {
@@ -1232,7 +1232,7 @@ html.js .tile.large-loaded .image {
   font-weight: 500;
   letter-spacing: .009em;
   font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  text-align: center;
+  text-align: left;
   margin-top: 20px;
   margin-bottom: 0
 }
