@@ -4,7 +4,7 @@ author: Carolina Requena
 featured: true
 date: 2023-05-10
 title: Pesquisa de satisfação já está disponível para alunos avaliarem a Estácio TJ
-cover: /images/redbull2.webp
+cover: /images/nps.webp
 tags:
   - Acadêmico
 highlight: false
