@@ -9,7 +9,7 @@
             <div class="category component">
               <div class="component-content">
                 <div class="category-eyebrow">
-                  <span class="category-eyebrow__date">{{ .Page.Params.Date | time.Format ":date_long"}}</span>
+                  <span class="category-eyebrow__date">{{ time.Format "Jan. 2, 2006" .Date }}</span>
                 </div>
               </div>
             </div>
