@@ -1,5 +1,5 @@
 ---
-date: 2023-06-25T01:43:11.636Z
+date: 2023-06-24T01:43:11.636Z
 title: Arraiá da Estácio Barra arrasta público para o campus
 cover: /images/foto-festa-junina-8-.webp
 author: Equipe Tom
