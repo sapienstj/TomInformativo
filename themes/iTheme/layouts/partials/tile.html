@@ -1,15 +1,15 @@
 
 <li
   role="listitem"
-  {{- $itemClass := "" -}}
-  {{- if eq .level  1 -}}
-    {{- $itemClass = "item-hero" -}}
-  {{- else if eq .level 2 -}}
-    {{- $itemClass = "item-2up" -}}
-  {{- else if eq .level  3 -}}
-    {{- $itemClass = "item-3up" -}}
-  {{- end -}}
-  class="{{- printf "tile-item nr-scroll-animation %s" $itemClass -}}"
+  class="tile-item nr-scroll-animation
+    {{ if eq .level  1 }}
+    item-hero
+    {{ else if eq .level 2 }}
+    item-2up
+    {{ else if eq .level  3 }}
+    item-3up
+    {{ end }}
+    "
   style="--nr-animation-transform-y:20%;"
 >
   <a
@@ -26,11 +26,7 @@
     aria-label={{ .label }}
   >
     <div class="tile__media" aria-hidden="true">
-      {{- $src := .context.Params.cover | default site.Params.defaultCover -}}
-      {{- with .context.Resources.GetMatch (printf "%s" ($src)) -}}
-          {{- $src = .RelPermalink -}}
-      {{- end -}}
-      <img class="cover image" data-src="{{ $src }}" alt="lt"/>
+      <img class="cover image" data-src="{{ if .context.Params.cover }} {{ .context.Params.cover }} {{ else }} {{ site.Params.defaultCover }} {{ end }}" alt="lt"/>
     </div>
 
     <div class="tile__description" aria-hidden="true">
@@ -44,7 +40,25 @@
         </div>
         <div class="tile__headline">{{ .context.Title }}</div>
       </div>
-      <div class="tile__timestamp icon-hide icon icon-before icon-clock">{{ .context.Date | time.Format ":date_long" }}</div>
+      {{ $monthMap := dict
+        "January"   "Janeiro"
+        "February"  "Fevereiro"
+        "March"     "Março"
+        "April"     "Abril"
+        "May"       "Maio"
+        "June"      "Junho"
+        "July"      "Julho"
+        "August"    "Agosto"
+        "September" "Setembro"
+        "October"   "Outubro"
+        "November"  "Novembro"
+        "December"  "Dezembro"
+    }}
+    
+    <div class="tile__timestamp icon-hide icon icon-before icon-clock">
+        {{ $month := index $monthMap (.context.Date.Format "January") }}
+        {{ .context.Date.Format "2 de" }} {{ $month }} de {{ .context.Date.Format "2006" }}
+    </div>
     </div>
   </a>
 </li>
