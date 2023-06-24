@@ -1,5 +1,5 @@
 ---
-date: 2023-06-24T01:43:11.636Z
+date: 2023-06-24
 title: De olho no imposto de renda
 description: 
 cover: /images/leao-imposto.webp
