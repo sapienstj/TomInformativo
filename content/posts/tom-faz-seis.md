@@ -1,7 +1,7 @@
 ---
 date: 2023-06-24T01:43:11.636Z
 title: Tom Informativo faz seis
-description: "Prêmios, encontros e oficinas: confira o que rolou"
+description:
 cover: 
 author: Carolina Requena
 tags: ["Editorial"]
