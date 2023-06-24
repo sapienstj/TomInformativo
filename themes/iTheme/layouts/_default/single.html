@@ -9,8 +9,7 @@
             <div class="category component">
               <div class="component-content">
                 <div class="category-eyebrow">
-                  <span class="category-eyebrow__date">{{ $month := index $monthMap (.context.Date.Format "January") }}
-                    {{ .context.Date.Format "2 de" }} {{ $month }} de {{ .context.Date.Format "2006" }}</span>
+                  <span class="category-eyebrow__date">{{ .Page.Params.Date | time.Format ":date_long"}}</span>
                 </div>
               </div>
             </div>
