@@ -35,8 +35,8 @@
     <ul role="list" class="section-tiles">
       {{ $counter := 0 }}
       {{ range $pages }}
-        {{ $postMonth := dateFormat "2006-01" .Params.date }}
-        {{ $currentMonth := dateFormat "2006-01" (time.Now) }}
+        {{ $postMonth := Date.Format "2006-01" .Params.date }}
+        {{ $currentMonth := Date.Format "2006-01" (time.Now) }}
         {{ if ne $postMonth $currentMonth }}
           {{ if lt $counter 6 }}
             {{ partial "moreTile.html" (dict "context" .) }}
