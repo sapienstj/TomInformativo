@@ -9,21 +9,8 @@
             <div class="category component">
               <div class="component-content">
                 <div class="category-eyebrow">
-                  <span class="category-eyebrow__date">      {{ $monthMap := dict
-                    "January"   "janeiro"
-                    "February"  "fevereiro"
-                    "March"     "março"
-                    "April"     "abril"
-                    "May"       "maio"
-                    "June"      "junho"
-                    "July"      "julho"
-                    "August"    "agosto"
-                    "September" "setembro"
-                    "October"   "outubro"
-                    "November"  "novembro"
-                    "December"  "dezembro"
-                }}{{ $month := index $monthMap (.context.Date.Format "January") }}
-                {{ .context.Date.Format "2 de" }} {{ $month }} de {{ .context.Date.Format "2006" }}</span>
+                  <span class="category-eyebrow__date">{{ $month := index $monthMap (.context.Date.Format "January") }}
+                    {{ .context.Date.Format "2 de" }} {{ $month }} de {{ .context.Date.Format "2006" }}</span>
                 </div>
               </div>
             </div>
