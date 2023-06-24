@@ -1,7 +1,11 @@
 baseURL = '/'
+<<<<<<< HEAD
 languageCode = 'pt-br'
+=======
+>>>>>>> parent of a789630 (Update config.toml)
 defaultContentLanguage = "pt-br"
-hasCJKLanguage = false
+languageCode = "pt-br"
+hasCJKLanguage = true
 title = 'Tom Informativo'
 copyright = 'Sapiens'
 theme = 'iTheme'
