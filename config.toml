@@ -1,4 +1,4 @@
-baseURL = 'jornal.sapienstj.com.br'
+baseURL = '/'
 languageCode = 'pt-br'
 defaultContentLanguage = "pt-br"
 hasCJKLanguage = false
