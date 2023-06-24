@@ -1,6 +1,6 @@
 baseURL = '/'
-languageCode = 'pt-br'
-defaultContentLanguage = 'pt'
+languageCode = 'pt'
+defaultContentLanguage = 'pt-br'
 hasCJKLanguage = true
 title = 'Tom Informativo'
 copyright = 'Sapiens'

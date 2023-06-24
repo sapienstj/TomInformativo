@@ -9,14 +9,7 @@
             <div class="category component">
               <div class="component-content">
                 <div class="category-eyebrow">
-                  <span class="category-eyebrow__category category_original">
-                    {{ if .Page.Params.tags }}
-                      {{ range first 1 .Page.Params.tags }}
-                        {{.}}
-                      {{ end }}
-                    {{ end }}
-                  </span>
-                  <span class="category-eyebrow__date">{{ time.Format "2 de Janunary de 2006" .Date }}</span>
+                  <span class="category-eyebrow__date">{{ time.Format "2 de January de 2006" .Date }}</span>
                 </div>
               </div>
             </div>
