@@ -21,3 +21,7 @@ paginate = 10
   [[params.blogroll]]
     name = 'Blog'
     url = 'https://blog.sapienstj.com.br/'
+
+[taxonomies]
+	author = "authors"
+	tag = "tags"
