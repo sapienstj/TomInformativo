@@ -3,6 +3,7 @@ languageCode = 'pt'
 defaultContentLanguage = 'pt'
 hasCJKLanguage = true
 title = 'Tom Informativo'
+PreserveTaxonomyNames = false
 copyright = 'Sapiens'
 theme = 'iTheme'
 paginate = 10
@@ -23,5 +24,6 @@ paginate = 10
     url = 'https://blog.sapienstj.com.br/'
 
 [taxonomies]
-	author = "authors"
+	author = "author"
 	tag = "tags"
+	category = "categories"
