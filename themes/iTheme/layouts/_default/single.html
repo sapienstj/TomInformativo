@@ -19,7 +19,9 @@
               </div>
             </div>
             <div class="component {{ if $featured }} featured-subhead {{ else }} article-subhead {{ end }}">
-              <div class="component-content">{{ .Page.Params.description }}<span class="category-eyebrow__date">por {{ .Page.Params.author }}</span></div>
+              <div class="component-content">{{ .Page.Params.description }}<span class="category-eyebrow__date">			  {{ range (.GetTerms "author") }}
+                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+                {{ end }}</span></div>
 
             </div>
             <div class="tagssheet component">
