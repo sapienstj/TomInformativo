@@ -1,0 +1,39 @@
+{{ $cover := site.Params.defaultCover}}
+{{ if .context.Params.cover }}
+    {{ $cover = .context.Params.cover }}
+{{ end }}
+
+<a href="{{ .context.Permalink }}" class="result__item row-anchor" aria-label="{{ .context.Title }}">
+    <picture class="viewport-picture">
+        <source media="(max-width: 734px)" srcset="{{ $cover }}">
+        <img class="viewport-image" src="{{ $cover }}" srcset="{{ $cover }}" aria-hidden="true" alt="">
+    </picture>
+    <div class="item__content">
+        <p class="item__category category_update">
+            {{ if .context.Params.tags }}
+                {{ range first 1 .context.Params.tags }}
+                {{.}}
+                {{ end }}
+            {{ end }}
+        </p>
+        <h3 class="item__headline">
+            {{ .context.Title }}
+        </h3>
+        {{ $monthMap := dict
+            "January"   "janeiro"
+            "February"  "fevereiro"
+            "March"     "março"
+            "April"     "abril"
+            "May"       "maio"
+            "June"      "junho"
+            "July"      "julho"
+            "August"    "agosto"
+            "September" "setembro"
+            "October"   "outubro"
+            "November"  "novembro"
+            "December"  "dezembro"
+        }}
+        <p class="item__date">{{ $month := index $monthMap (.context.Date.Format "January") }}
+            {{ .context.Date.Format "2 de" }} {{ $month }} de {{ .context.Date.Format "2006" }}</p>
+    </div>
+</a>

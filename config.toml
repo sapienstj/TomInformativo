@@ -1,0 +1,23 @@
+baseURL = '/'
+languageCode = 'pt'
+defaultContentLanguage = 'pt'
+hasCJKLanguage = true
+title = 'Tom Informativo'
+copyright = 'Sapiens'
+theme = 'iTheme'
+paginate = 10
+[params]
+  defaultCover = '/images/prazer.webp'
+  email = 'atendimento@sapienstj.com.br'
+  [[params.socialMedia]]
+    name = 'Github'
+    url = 'https://github.com/sapienstj'
+  [[params.socialMedia]]
+    name = 'Instagram'
+    url = 'https://instagram.com/sapienstj'
+  [[params.blogroll]]
+    name = 'Portfólio'
+    url = 'https://sapienstj.com.br/portfolio'
+  [[params.blogroll]]
+    name = 'Blog'
+    url = 'https://blog.sapienstj.com.br/'
