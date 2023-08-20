@@ -12,8 +12,8 @@ collections:
     fields:
       - { label: "Data", name: "date", widget: "date" }
       - { label: "Título", name: "title", widget: "string" }
-      - { label: "Imagem", name: "cover", widget: "image" }
+      - { label: "Imagem", name: "cover", widget: "image", optional: true}
       - { label: "Autor", name: "author", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Destaque", name: "highlight", widget: "boolean" }
+      - { label: "Tags", name: "tags", widget: "list", optional: true}
+      - { label: "Destaque", name: "highlight", widget: "boolean", optional: true}
       - { label: "Conteúdo", name: "body", widget: "markdown" }
