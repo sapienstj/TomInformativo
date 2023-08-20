@@ -4,7 +4,7 @@ title: Campus Barra da Tijuca inova com cerimônia inédita para calouros
 cover: 
 author: Carolina Requena
 tags:
-  - Mundo
+  - Acadêmico
 highlight: false
 ---
 Nesse semestre, os calouros da Estácio Tom Jobim poderão participar de uma dinâmica exclusiva: a cerimônia de posse de cursos. Márcio Simão, administrador por formação e gestor do Campus TJ, inovou com a nova prática no semestre passado (2022.2), para universitários da área da Saúde, recebendo os estudantes para uma Cerimônia do Jaleco, tradição antiga e exclusiva do curso de Medicina.
