@@ -1,11 +1,11 @@
 ---
 date: 2023-08-20T22:09:23.447Z
-title: Campus Barra da Tijuca inova com cerimônia inéditapara calouros
+title: Novo formato de avaliação chega à Estácio Tom Jobim
 cover: 
 author: Matheus Gonçalves
 tags:
   - Mundo
-highlight: true
+highlight: false
 ---
 Neste semestre, a Estácio apresentou um formato inovador de avaliação acadêmica, que promete simplificar ao máximo o processo para os estudantes. A partir de agora, a aprovação em cada disciplina será garantida por meio de uma única prova: a Avaliação (AV). O novo sistema visa tornar as estimativas mais acessíveis e menos estressantes para os alunos, reduzindo a quantidade de provas, ao longo do semestre. Com a AV, os estudantes poderão direcionar seus estudos, tendo a chance de conquistar até 10 pontos na avaliação.
 

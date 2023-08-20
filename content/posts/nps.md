@@ -5,7 +5,7 @@ cover:
 author: Carolina Requena
 tags:
   - Acadêmico
-highlight: true
+highlight: false
 ---
 O Net Promoter Score (NPS) é um indicador que mensura o nível de satisfação e lealdade dos clientes de uma empresa, a partir da probabilidade deles indicarem seus serviços para outras pessoas. Essa metodologia foi introduzida por Frederick Reichheld, estrategista de Negócios, em uma publicação na revista Harvard Business Review, que depois foi mais aprofundada pelo autor no livro "A pergunta definitiva".
 
