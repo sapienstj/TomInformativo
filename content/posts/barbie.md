@@ -1,6 +1,6 @@
 ---
 date: 2023-08-20T22:09:23.447Z
-title: Diretora de “Barbie” se torna primeira mulher a faturar  US$1 bilhão nas
+title: Diretora de “Barbie” se torna primeira mulher a faturar US$1 bilhão nas
   bilheterias
 cover: /images/barbie.webp
 author: Carolina Requena
