@@ -3,7 +3,7 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body class="{{ if .IsPage }} page-article {{ else }} page-landing {{ end }}  {{ if eq .Page.Params.theme "dark" }} theme-dark {{ end }}">
+  <body class="{{ if .IsPage }} page-article {{ else }} page-landing {{ end }}  {{ if eq .Page.Params.theme "dark" }} theme-dark {{ end }} {{ if eq .Page.Params.theme "barbie" }} theme-barbie {{ end }}">
     <header>
       {{ partial "header.html" . }}
     </header>

@@ -453,3 +453,10 @@ code {
   display: inline-block;
   margin-right: 1rem;
 }
+
+@font-face {
+  font-family: 'Bartex Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Bartex.woff') format('woff');
+  }
