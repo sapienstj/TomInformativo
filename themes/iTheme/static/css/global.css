@@ -6324,6 +6324,25 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   --footer-directory-title-color-hover: #fff;
 }
 
+.theme-barbie h1 {
+  color: #F04E8A;
+}
+.theme-barbie .tag{
+  background: #F04E8A;
+
+}
+.theme-barbie .tag:hover{
+  background: #B82164;
+}
+
+@media screen and (min-width: 735px) {
+  .theme-barbie a.nav-title {
+    color: #F04E8A;
+    font-family: 'Bartex Regular';
+    font-size: 30px; /* Adjust the font size as needed */
+  }
+}
+
 .theme-dark {
   background-color: #000;
   color: #f5f5f7;
