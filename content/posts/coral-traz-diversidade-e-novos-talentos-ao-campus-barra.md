@@ -1,6 +1,6 @@
 ---
 date: 2023-09-23T18:19:13.086Z
-title: CORAL TRAZ DIVERSIDADE E NOVOS TALENTOS AO CAMPUS BARRA
+title: Coral Traz Diversidade e Novos Talentos ao Campus Barra
 theme: amarelo
 cover: /images/mídia-5-4751321f-37f4-495b-8ab7-b337fc5b546c.jpg
 author: Carolina Requena
